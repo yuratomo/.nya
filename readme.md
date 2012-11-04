@@ -22,13 +22,16 @@ Settings
 ~/.nya/にluaスクリプトがある場合
 
     alias gar      source ~\.nya\gar.lua
+
     alias gal      source ~\.nya\gal.lua
 
 Usage
 -----
 * あふwの左ファイル窓のフォルダに移動
+
     nyaos> gal
 
 * あふwの右ファイル窓のフォルダに移動
+
     nyaos> gar
 
